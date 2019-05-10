@@ -26,7 +26,9 @@ String folder = null; //no nested folder in cloud storage
 storageApi.PutCreate(fileName, "", storage, new File(getClass().getResource("/" + fileName).toURI()));
 
 ```
-##Contact Us
-Your feedback is very important to us. Please feel free to contact us using our [Support Forums](https://www.aspose.com/community/forums/).
-
-
+## Resources
++ [**Web API reference**](https://apireference.aspose.cloud/storage/)
++ [**Website**](https://www.aspose.cloud/)
++ [**Documentation**](https://docs.aspose.cloud/display/storagecloud/Home)
++ [**Free Support Forum**](https://forum.aspose.cloud/c/storage)
++ [**Paid Support Helpdesk**](https://helpdesk.aspose.cloud/)
